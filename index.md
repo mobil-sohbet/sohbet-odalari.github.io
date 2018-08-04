@@ -1,4 +1,5 @@
-##Sohbet Odaları (Sohbet Chat Sohbet Odaları)##
+##Sohbet Odaları Sohbet Chat Sohbet Odaları##
+
 Sohbet odaları günde binlerce insanin ziyaret ettiği ve günden güne artan kullanıcının potansiyeline sahip bir [sohbet](http://www.sohbetodalari.life) platformudur. 
 Her yaştan insanin giriş yaptığı ve özgürce [chat](http://www.sohbetodalari.life) yapabildikleri bu web protokolü insanlara hizmetleri karşılığında onlardan
 kesinlikle para vb. şeyler asla talep etmemektedir. 

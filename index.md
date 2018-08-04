@@ -1,16 +1,4 @@
 
-    <meta charset="utf-8">
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<title>Sohbet Odaları (Sohbet Chat Sohbet Odaları)</title>
-
-    <meta name="description" itemprop="description" content="Sohbet odaları, mobil sohbet ve chat uyumlu chat sitesi arayüzleri ile bedava chat ve sohbet imkanı sunan sıhbet siteleri." />
-
-    <meta name="keywords" itemprop="keywords" content="sohbet,chat" />  
-    
-    <meta name="google" content="notranslate" />
 
 <strong>Sohbet Odaları Sohbet Chat Sohbet Odaları</strong>
 
